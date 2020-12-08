@@ -1,0 +1,56 @@
+/****** Navigation Menu ******/
+.nav-signup {
+    text-decoration: none;
+    border: 1px solid rgb(58, 201, 248);
+    border-radius: 2px;
+    padding: 5px;
+    color: rgb(58, 201, 248);
+}
+
+.flexnav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-bottom: 1px solid gainsboro;
+}
+
+/****** Main Content ******/
+.flexmain {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.cards {
+    border: 2px solid gainsboro;
+    border-radius: 2px;
+    padding: 0 10px 20px 10px;
+}
+
+li {
+    list-style: none;
+}
+
+h3,
+p {
+    text-align: center;
+}
+
+.main-signup {
+    text-decoration: none;
+    border: 1px solid rgb(58, 201, 248);
+    border-radius: 2px;
+    padding: 10px 40px 10px 40px;
+    color: rgb(58, 201, 248);
+}
+
+.main-links {
+    text-decoration: none;
+    border: 1px solid rgb(58, 201, 248);
+    border-radius: 2px;
+    padding: 10px 40px 10px 40px;
+    color: white;
+    background-color: rgb(58, 201, 248);
+}
+
+/****** Footer Content ******/
